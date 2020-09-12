@@ -12,7 +12,7 @@
     "global": "^4.4.0",
     "graphql": "^14.5.8",
     "graphql-yoga": "^1.18.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^2.0.2"
   },
   "devDependencies": {
