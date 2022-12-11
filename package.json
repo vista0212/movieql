@@ -7,7 +7,7 @@
     "start": "nodemon --exec babel-node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-graphql": "^0.9.0",
     "global": "^4.4.0",
     "graphql": "^14.5.8",
